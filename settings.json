@@ -1,21 +1,17 @@
 {
-    "workbench.colorTheme": "focus",
     "workbench.colorCustomizations": {
         //"editor.background": "#fff",
         //"editor.selectionBackground": "#fff",
     },
-    "glassit.alpha": 220,
+    "glassit.alpha": 230,
     "diffEditor.ignoreTrimWhitespace": false,
-    "remote.SSH.remotePlatform": {
-        "cholicub.shyybi.me": "linux"
-    },
     "vscord.status.details.text.editing": "📂​​​​ • {workspace}",
     "vscord.status.details.text.viewing": "📂​​​ • {workspace}",
     "vscord.status.details.text.debugging": " ❯ 💻 • Debugging ​{file_name}{file_extension}",
     "vscord.status.state.text.debugging": " ❯ 💻 • Debugging: {workspace}",
     "vscord.status.state.text.editing": " ❯ 📖​ • {file_name}{file_extension}:{current_line}:{current_column}",
     "vscord.status.state.text.viewing": " ❯ 📖​ • {file_name}{file_extension}",
-    "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.fontFamily": "'SF Mono', 'Courier New', 'monospace'",
     "editor.fontFamily": "'SF Mono', 'Courier New', monospace",
     "vscord.status.image.large.debugging.key": "https://vscord.catppuccin.com/mocha/debugging.webp",
     "vscord.status.image.large.editing.key": "https://vscord.catppuccin.com/mocha/{lang}.webp",
@@ -34,4 +30,21 @@
         "https://gist.githubusercontent.com/Crysta1221/24c724fd9f475ef473dcf2c3d551b8c3/raw/a9e6920e39d78eeb43ea448d36a8eb215bbbbf35/style.css"
     ],
     "editor.cursorSmoothCaretAnimation": "on",
+    "editor.minimap.enabled": false,
+    "workbench.productIconTheme": "fluent-icons",
+    "chat.editing.alwaysSaveWithGeneratedChanges": true,
+    "indentRainbow.colors": [
+        "rgba(255,255,64,0.3)",
+        "rgba(127,255,127,0.)",
+        "rgba(255,127,255,0.3)",
+        "rgba(79,236,236,0.3)"
+    ],
+    "indentRainbow.indicatorStyle": "light",
+    "42header.email": "csaaadao@student.42.fr",
+    "42header.username": "csaaadao",
+    "catppuccin.accentColor": "pink",
+    "workbench.colorTheme": "focus",
+    "editor.cursorBlinking": "smooth",
+    "vscord.app.privacyMode.enable": false,
+    
 }
